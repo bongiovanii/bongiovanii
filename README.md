@@ -7,7 +7,7 @@
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=bongiovanii&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-- 🔭 Hoje trabalho como dev front-end
+- 🔭 Hoje trabalho como dev fullstack
 - 🌱 Hoje estou aprendendo sobre: Python, SQL, Data Base, Next.js, React Native e React.js
 - 😄 Pronomes: ele/dele
 - ⚡ Fato curioso: ao mesmo tempo sou atleta praticante de basquete!
