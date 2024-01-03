@@ -8,7 +8,7 @@
 </div>
 
 - 🔭 Hoje trabalho como dev front-end
-- 🌱 Hoje estou aprendendo sobre: Typescript, Next.js, React Native e React.js
+- 🌱 Hoje estou aprendendo sobre: Python, SQL, Data Base, Next.js, React Native e React.js
 - 😄 Pronomes: ele/dele
 - ⚡ Fato curioso: ao mesmo tempo sou atleta praticante de basquete!
 
