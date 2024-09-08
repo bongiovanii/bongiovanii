@@ -8,7 +8,7 @@
 </div>
 
 - 🔭 Hoje trabalho como dev fullstack
-- 🌱 Hoje estou aprendendo sobre: Python, SQL, Data Base, Next.js, React Native e React.js
+- 🌱 Hoje estou aprendendo sobre: Java
 - 😄 Pronomes: ele/dele
 - ⚡ Fato curioso: ao mesmo tempo sou atleta praticante de basquete!
 
