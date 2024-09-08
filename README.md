@@ -9,7 +9,6 @@
 
 - 🔭 Hoje trabalho como dev fullstack
 - 🌱 Hoje estou aprendendo sobre: Java
-- 😄 Pronomes: ele/dele
 - ⚡ Fato curioso: ao mesmo tempo sou atleta praticante de basquete!
 
 ##
