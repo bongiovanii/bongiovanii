@@ -9,15 +9,15 @@
 
 - 🔭 Hoje sou univeritário estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Hoje estou aprendendo sobre: Java
-- ⚡ Fato curioso: ao mesmo tempo sou atleta praticante de basquete!
+- ⚡ Fato curioso: ao mesmo tempo sou um atleta de basquete!
 
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+  <img align="center" alt="Java" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
   <img align="center" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
 
